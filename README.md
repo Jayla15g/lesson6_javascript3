@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 12, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jayla Mitchell
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+A car photo gallery that allows the users to naviagte through the images
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jayla15g.github.io/lesson6_javascript3/ 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The **document.createElement()** fucntion is use to create new nodes
+2. When referring to a css property in JavaScript that includes a hyphen (z-index), the hyphen is removed and the letter after the hyphen is capitalzied.
+3. The **cloneNode()** function allows you to create a new node that is the same or similar to to an exisiting node in your document. 
